@@ -1,17 +1,24 @@
 .bodyClass {
-  background-color: teal;
+  background-color: gray;
 
 }
 
 .pClass {
   color: black;
   font-size: 40px;
+
   margin-top: 0;
-  text-align: center;
+text-align: center;
 }
 .pNewclass{
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
+  display: block;margin-left: auto;margin-right:auto;
 
 
+}
+.pNewclass2{
+  height: 300px;
+  width: 300px;
+  align:right;
 }
