@@ -4,8 +4,14 @@
 }
 
 .pClass {
-  color: red;
+  color: black;
   font-size: 40px;
   margin-top: 0;
   text-align: center;
+}
+.pNewclass{
+  height: 200px;
+  width: 200px;
+
+
 }
